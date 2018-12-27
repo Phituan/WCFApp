@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFApplication", "WCFApplication\WCFApplication.csproj", "{73A7720B-04BA-4D57-8C1C-0C8BEC0D5DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73A7720B-04BA-4D57-8C1C-0C8BEC0D5DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A7720B-04BA-4D57-8C1C-0C8BEC0D5DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A7720B-04BA-4D57-8C1C-0C8BEC0D5DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A7720B-04BA-4D57-8C1C-0C8BEC0D5DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BADC9212-1FC4-4E0D-8B1A-933F7CAAEEE8}
+	EndGlobalSection
+EndGlobal
